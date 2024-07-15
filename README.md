@@ -95,7 +95,7 @@ sheet = [
 If the average asset value across 12 months is greater than the loan amount then `"preAssessment": "100"`
 - Default value to be used `20`
 
-## The Final output to be sent to the decision engine would contain minimum details such as
+## The Final output to be sent to the decision engine would contain minimum details such as 
 
 - Business Details such as:
   - Name
